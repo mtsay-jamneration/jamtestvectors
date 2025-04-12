@@ -190,7 +190,7 @@
   "initial-timeslot": 28800,
   "expected-gas": 9990,
   "expected-regs": {
-    "7": 18446744073709551606,
+    "7": 18446744073709551607,
     "8": 12
   },
   "expected-memory": {

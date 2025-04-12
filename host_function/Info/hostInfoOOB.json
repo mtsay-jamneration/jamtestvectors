@@ -69,7 +69,7 @@
   },
   "expected-gas": 9990,
   "expected-regs": {
-    "7": 18446744073709551613,
+    "7": 0,
     "8": 131072
   },
   "expected-memory": {
